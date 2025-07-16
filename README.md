@@ -1,4 +1,4 @@
-# Regenerative_braking_Simulik
+# ⚡Regenerative_braking_Simulik
 
 This project presents the simulation and analysis of a regenerative braking system modeled in Simulink. Designed for electric and hybrid electric vehicles, the model demonstrates how kinetic energy lost during braking can be efficiently recovered and stored, enhancing energy efficiency and system sustainability.
 
